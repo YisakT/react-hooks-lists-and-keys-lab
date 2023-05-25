@@ -1,11 +1,11 @@
 const user = {
-  name: "Liza",
-  city: "New York",
+  name: "Yisak Girmay",
+  city: "Fairfax,VA",
   bio: "I made this!",
   color: "firebrick",
   links: {
-    github: "https://github.com/liza",
-    linkedin: "https://www.linkedin.com/in/liza/",
+    github: "https://github.com/YisakT",
+    linkedin: "https://www.linkedin.com/in/yisak-girmay3/",
   },
   projects: [
     {
